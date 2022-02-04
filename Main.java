@@ -143,7 +143,6 @@ public class Main {
         group.printGroup();
         group2.printGroup();
 
-
         group.printStudent();
         group2.printStudent();
     }
